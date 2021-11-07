@@ -7,7 +7,7 @@ void main () {
 SetConsoleOutputCP(65001);
 
 int modo;
-int lala;
+
 
 while (modo < 1 || modo > 4) {
 printf ("Escolha o modo da calculadora: ");
